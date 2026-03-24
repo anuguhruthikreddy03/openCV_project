@@ -50,8 +50,6 @@ Upload Image
    ```bash
    streamlit run app.py
    ```
-5. Open the local URL shown in terminal (usually `http://localhost:8501`).
+5. Open the local URL shown in terminal .
 
-## Repository Files
-- `app.py`
-- `README.md`
+
